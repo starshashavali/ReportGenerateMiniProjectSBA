@@ -1,0 +1,5 @@
+package com.org.repo;
+
+public interface CitizenPlanRepo  extends JpaRepository<CitizenPlan,Integer>{
+
+}
